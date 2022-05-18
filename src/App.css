@@ -1,0 +1,17 @@
+.navbar {
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+}
+.search{
+    padding: 20px;
+    justify-content: center;
+    display: flex;
+}
+.card{
+    justify-content: center;
+    display: flex;
+}
